@@ -1,5 +1,6 @@
 {
-  "_24hourtime": false,
+  "_24hourtime": true,
+  "_d0": null,
   "accentcolourdefault800080": "0.5411764705882353 0.10980392156862745 0.21568627450980393",
   "alignment": 0,
   "alignmentfliph": false,
